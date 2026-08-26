@@ -786,7 +786,7 @@ Sproutで学習・仕事・作業を行う際の、
 
 # 17. 著作権・利用条件
 
-**Copyright © 2025-2026 吉岡有隆（Yutaka Yoshioka）. All Rights Reserved.**
+**Copyright © 2025 吉岡有隆（Yutaka Yoshioka）. All Rights Reserved.**
 
 本設計書を含む、吉岡有隆が制作した具体的な文章、図表、UI・UX資料、画像その他の著作物は著作権法によって保護されます。
 
