@@ -4,7 +4,7 @@
 **制定日：2025年6月27日**  
 **改訂日：2026年8月26日**
 
-**Copyright © 2025-2026 吉岡有隆（Yutaka Yoshioka）. All Rights Reserved.**
+**Copyright © 2025 吉岡有隆（Yutaka Yoshioka）. All Rights Reserved.**
 
 本ライセンスは、プロジェクト「Yutone（ユトーン）」に関して公開される設計文書、文章、画像、UI・UX資料、ロゴ、アイコン、ソースコードその他の著作物について、利用条件を定めるものです。
 
